@@ -1,0 +1,375 @@
+question_id,option_id,option_label,is_missing
+2023-032_q11,1,Take the lead,false
+2023-032_q11,2,Wait for public support,false
+2023-032_q11,3,Don't know,false
+2023-032_q11,4,Not applicable: Politicians should never take action to drastically reduce US carbon emissions,false
+2025-119_q1,1,I would certainly participate.,false
+2025-119_q1,2,I would most likely participate.,false
+2025-119_q1,3,There is an approximately 50/50 chance that I would participate.,false
+2025-119_q1,4,I would most likely not participate.,false
+2025-119_q1,5,"I would certainly not participate, because I am opposed.",false
+2025-119_q1,6,"I would certainly not participate, because I am unable to.",false
+2025-119_q1,7,I would seek to join a pro-Trump counter-protest.,false
+2025-119_q11,1,Strongly agree,false
+2025-119_q11,2,Somewhat agree,false
+2025-119_q11,3,Neither agree nor disagree,false
+2025-119_q11,4,Somewhat disagree,false
+2025-119_q11,5,Strongly disagree,false
+2025-119_q12,1,"A system that guarantees access to a basic income and services for all citizens, even if they cannot express their polit",false
+2025-119_q12,2,"A system in which everybody can express their political opinions without fear or censorship, even if some people do not",false
+2025-119_q13,1,Strongly disagree,false
+2025-119_q13,2,Disagree,false
+2025-119_q13,3,Neither agree nor disagree,false
+2025-119_q13,4,Agree,false
+2025-119_q13,5,Strongly agree,false
+2025-119_q14,1,Strongly agree,false
+2025-119_q14,2,Agree,false
+2025-119_q14,3,Neither agree nor disagree,false
+2025-119_q14,4,Disagree,false
+2025-119_q14,5,Strongly disagree,false
+2025-119_q14,6,Do not know/can't choose,false
+2025-119_q15,1,To promote a political candidate,false
+2025-119_q15,2,To support a political party,false
+2025-119_q15,3,To support a broad political movement,false
+2025-119_q15,4,To defend the country,false
+2025-119_q15,5,Never,false
+2025-119_q16,1,The federal government,false
+2025-119_q16,2,Your state government,false
+2025-119_q16,3,Neither,false
+2025-119_q17,1,Strongly agree,false
+2025-119_q17,2,Somewhat agree,false
+2025-119_q17,3,Neither agree nor disagree,false
+2025-119_q17,4,Somewhat disagree,false
+2025-119_q17,5,Strongly disagree,false
+2025-119_q18,1,Personal ideological identification (conservative or liberal),false
+2025-119_q18,2,A specific policy position,false
+2025-119_q18,3,"A more generalized, set of policy positions",false
+2025-119_q19,1,Less informed,false
+2025-119_q19,2,About as informed,false
+2025-119_q19,3,More informed,false
+2025-119_q2,1,Decide based on a single issue that matters most to you.,false
+2025-119_q2,2,"Consider several issues together, weighing the pros and cons.",false
+2025-119_q2,3,"Sometimes I focus on one key issue, other times I weight pros and cons. It depends on what's a stake.",false
+2025-119_q20,1,Strongly agree,false
+2025-119_q20,2,Agree,false
+2025-119_q20,3,Neither agree nor disagree,false
+2025-119_q20,4,Disagree,false
+2025-119_q20,5,Strongly disagree,false
+2025-119_q21,1,Cultural ideology matters much more,false
+2025-119_q21,2,Cultural ideology matters more slightly,false
+2025-119_q21,3,Indifferent,false
+2025-119_q21,4,Economic interests matter more slightly,false
+2025-119_q21,5,Economic interests matter much more,false
+2025-119_q21,6,Neither of the two matters,false
+2025-119_q22a,1,I would likely vote for this member,false
+2025-119_q22a,2,I would likely vote for a member of the other party,false
+2025-119_q22a,3,I would likely vote for a third party candidate or write in a candidate,false
+2025-119_q22a,4,I would likely not vote at all,false
+2025-119_q22b,1,I would likely vote for this member,false
+2025-119_q22b,2,I would likely vote for a member of the other party,false
+2025-119_q22b,3,I would likely vote for a third party candidate or write in a candidate,false
+2025-119_q22b,4,I would likely not vote at all,false
+2025-119_q23,1,Entertainment,false
+2025-119_q23,2,Learn about current events,false
+2025-119_q23,3,Receive information not available in legacy media,false
+2025-119_q23,4,I don't listen to podcasts,false
+2025-119_q24,1,University presidents,false
+2025-119_q24,2,University Board of Regents,false
+2025-119_q24,3,State governor,false
+2025-119_q24,4,State legislator,false
+2025-119_q24,5,President of the USA,false
+2025-119_q24,6,Congress,false
+2025-119_q24,7,Other,false
+2025-119_q25,1,A great deal,false
+2025-119_q25,2,A moderate amount,false
+2025-119_q25,3,A little,false
+2025-119_q25,4,None,false
+2025-119_q25,5,It’s harmful,false
+2025-119_q25,6,Don’t know,false
+2025-119_q26,1,Democratic Senate / Democratic House,false
+2025-119_q26,2,Republican Senate / Democratic House,false
+2025-119_q26,3,Democratic Senate / Republican House,false
+2025-119_q26,4,Republican Senate / Republican House,false
+2025-119_q27,1,Make them much worse,false
+2025-119_q27,2,Make them somewhat worse,false
+2025-119_q27,3,Have little to no impact,false
+2025-119_q27,4,Make them somewhat better,false
+2025-119_q27,5,Make them much better,false
+2025-119_q27,6,I have not heard of PragerU,false
+2025-119_q28,1,Much more training,false
+2025-119_q28,2,More training,false
+2025-119_q28,3,Less training,false
+2025-119_q28,4,Much less training,false
+2025-119_q29,1,Yes,false
+2025-119_q29,2,No,false
+2025-119_q29,3,Don't know,false
+2025-119_q3,1,"Yes, registered to vote as a Democrat",false
+2025-119_q3,2,"Yes, registered to vote as a Republican",false
+2025-119_q3,3,"Yes, registered to vote, with a minor party",false
+2025-119_q3,4,"Yes, registered to vote, unaffiliated with a party",false
+2025-119_q3,5,No,false
+2025-119_q30,1,By region,false
+2025-119_q30,2,By school size,false
+2025-119_q30,3,By the caliber or quality of teams,false
+2025-119_q30,4,Not sure,false
+2025-119_q31,1,Strongly agree,false
+2025-119_q31,2,Somewhat agree,false
+2025-119_q31,3,Neither agree nor disagree,false
+2025-119_q31,4,Somewhat disagree,false
+2025-119_q31,5,Strongly disagree,false
+2025-119_q32,1,Strongly agree,false
+2025-119_q32,2,Agree,false
+2025-119_q32,3,Neutral,false
+2025-119_q32,4,Disagree,false
+2025-119_q32,5,Strongly disagree,false
+2025-119_q33,1,Strongly agree,false
+2025-119_q33,2,Somewhat agree,false
+2025-119_q33,3,Neither agree or disagree,false
+2025-119_q33,4,Somewhat disagree,false
+2025-119_q33,5,Strongly disagree,false
+2025-119_q33,6,Don't know/refuse,false
+2025-119_q34,1,More conflict,false
+2025-119_q34,2,More talk about political parties,false
+2025-119_q34,3,"More talk about national politics, such as the President or Congress",false
+2025-119_q34,4,I don't read my local newspaper,false
+2025-119_q34,5,I don't have a local newspaper,false
+2025-119_q34,6,None of the above,false
+2025-119_q35,1,Yes,false
+2025-119_q35,2,No,false
+2025-119_q36,1,Twitter/X,false
+2025-119_q36,2,TikTok,false
+2025-119_q36,3,Facebook,false
+2025-119_q36,4,Instagram,false
+2025-119_q36,5,YouTube,false
+2025-119_q36,6,Reddit,false
+2025-119_q36,7,Other,false
+2025-119_q36,8,None of the above,false
+2025-119_q37,1,Several times a week,false
+2025-119_q37,2,Once a week,false
+2025-119_q37,3,One to three times a month,false
+2025-119_q37,4,Less than once a month,false
+2025-119_q37,5,Never,false
+2025-119_q38,1,Yes,false
+2025-119_q38,2,No,false
+2025-119_q38,3,Prefer not to answer,false
+2025-119_q39,1,Yes,false
+2025-119_q39,2,No,false
+2025-119_q4,1,The Democratic primary election,false
+2025-119_q4,2,The Republican primary election,false
+2025-119_q4,3,"Minor party primary elections (e.g. Green Party, Constitution Party)",false
+2025-119_q4,4,I am not registered to vote,false
+2025-119_q40,1,Abortion,false
+2025-119_q40,2,Inflation,false
+2025-119_q40,3,Healthcare,false
+2025-119_q40,4,Climate and the environment,false
+2025-119_q40,5,Student loans,false
+2025-119_q40,6,Immigration,false
+2025-119_q40,7,None of the above,false
+2025-119_q41,1,"Yes, I served.",false
+2025-119_q41,2,"Yes, a parent served.",false
+2025-119_q41,3,"Yes, a sibling served.",false
+2025-119_q41,4,"Yes, a child served.",false
+2025-119_q41,5,"Yes, another relative served.",false
+2025-119_q41,6,"No, none of the above apply.",false
+2025-119_q42,1,Very significant,false
+2025-119_q42,2,Significant,false
+2025-119_q42,3,Not very significant,false
+2025-119_q43,1,Very important,false
+2025-119_q43,2,Important,false
+2025-119_q43,3,Not very important,false
+2025-119_q44,1,"Less than $24,999",false
+2025-119_q44,2,"$25,000 - 44,999",false
+2025-119_q44,3,"$45,000 - 64,999",false
+2025-119_q44,4,"$65,000 - 99,999",false
+2025-119_q44,5,"$100,000 - 149,999",false
+2025-119_q44,6,"$150,000 - 249,000",false
+2025-119_q44,7,"over $250,000",false
+2025-119_q45,1,Much more active,false
+2025-119_q45,2,Somewhat more active,false
+2025-119_q45,3,About the same level of activity,false
+2025-119_q45,4,Somewhat less active,false
+2025-119_q45,5,Much less active,false
+2025-119_q46,1,Definitely planning to move,false
+2025-119_q46,2,Seriously considering moving,false
+2025-119_q46,3,Moderately considering moving,false
+2025-119_q46,4,Slightly considering moving,false
+2025-119_q46,5,Definitely not considering moving,false
+2025-119_q47,1,"Less than $10,000",false
+2025-119_q47,2,"$10,001 to $50,000",false
+2025-119_q47,3,"$50,001 to $100,000",false
+2025-119_q47,4,"$100,001 to $250,000",false
+2025-119_q47,5,"$250,001 to $500,000",false
+2025-119_q47,6,"$500,001 to $1,000,000",false
+2025-119_q47,7,"More than $1,000,000",false
+2025-119_q47,8,Prefer not to answer,false
+2025-119_q48,1,Strongly disagree,false
+2025-119_q48,2,Somewhat disagree,false
+2025-119_q48,3,Neither disagree nor agree,false
+2025-119_q48,4,Somewhat agree,false
+2025-119_q48,5,Strongly agree,false
+2025-119_q49,1,"Race/ethnicity (e.g. Black, Hispanic, etc.)",false
+2025-119_q49,2,"Socioeconomic (e.g. Middle class, Rich, Blue collar, etc.)",false
+2025-119_q49,3,"Religion (e.g. Christian, Muslim, etc.)",false
+2025-119_q49,4,"Nationality/linguistic/regional (e.g. Chinese-American, Arabic speakers, Southerners, people from the West Coast etc.)",false
+2025-119_q49,5,"Gender/sexuality (e.g. Female, Transgender, Straight, Lesbian etc.)",false
+2025-119_q49,6,"Political/ideological (e.g. Republicans, Democrats, Liberals, Conservatives, etc.)",false
+2025-119_q49,7,Other,false
+2025-119_q5,1,Republicans,false
+2025-119_q5,2,Democrats,false
+2025-119_q5,3,Some other party,false
+2025-119_q50,1,Yes,false
+2025-119_q50,2,No,false
+2025-119_q50,3,Not sure,false
+2025-119_q51,1,Strongly agree,false
+2025-119_q51,2,Agree,false
+2025-119_q51,3,Disagree,false
+2025-119_q51,4,Strongly disagree,false
+2025-119_q52,1,No change,false
+2025-119_q52,2,A little bit worse,false
+2025-119_q52,3,Somewhat worse,false
+2025-119_q52,4,A moderate amount worse,false
+2025-119_q52,5,A lot worse,false
+2025-119_q53,1,Substantially less,false
+2025-119_q53,2,A little less,false
+2025-119_q53,3,The same,false
+2025-119_q53,4,A little more,false
+2025-119_q53,5,Substantially more,false
+2025-119_q54,1,Extremely Liberal,false
+2025-119_q54,2,Liberal,false
+2025-119_q54,3,Somewhat Liberal,false
+2025-119_q54,4,Moderate,false
+2025-119_q54,5,Somewhat Conservative,false
+2025-119_q54,6,Conservative,false
+2025-119_q54,7,Extremely Conservative,false
+2025-119_q55,1,Positive,false
+2025-119_q55,2,Negative,false
+2025-119_q55,3,Neutral,false
+2025-119_q55,4,Don't know,false
+2025-119_q55,5,Prefer not to say,false
+2025-119_q56,1,"Yes, a lot",false
+2025-119_q56,2,"Yes, a little",false
+2025-119_q56,3,No,false
+2025-119_q57,1,I support ripping them down,false
+2025-119_q57,2,I oppose ripping down posters of hostages,false
+2025-119_q57,3,I don't believe the hostages exist,false
+2025-119_q57,4,I don't care about the posters,false
+2025-119_q57,5,Ripping down posters reflect my resistance to the occupation,false
+2025-119_q57,6,People who rip down posters of hostages are antisemitic,false
+2025-119_q57,7,I do not know what happened on 10/7/23,false
+2025-119_q58,1,Totally agree,false
+2025-119_q58,2,Agree,false
+2025-119_q58,3,Somewhat agree,false
+2025-119_q58,4,Neutral,false
+2025-119_q58,5,Somewhat disagree,false
+2025-119_q58,6,Disagree,false
+2025-119_q58,7,Extremely disagree,false
+2025-119_q59,1,"Dreamers, and DACA recipients",false
+2025-119_q59,2,DACA recipients’ parents,false
+2025-119_q59,3,Undocumented migrants without a criminal history,false
+2025-119_q59,4,Documented migrants,false
+2025-119_q59,5,"American-born, but children of migrants",false
+2025-119_q59,6,American-born children to American-born parents,false
+2025-119_q6,1,Democrats,false
+2025-119_q6,2,Republicans,false
+2025-119_q6,3,Some other party,false
+2025-119_q60,1,Mexicans,false
+2025-119_q60,2,Central Americans and South Americans,false
+2025-119_q60,3,Indians,false
+2025-119_q60,4,Koreans,false
+2025-119_q60,5,Italians,false
+2025-119_q60,6,Other,false
+2025-119_q61,1,Would strongly support,false
+2025-119_q61,2,Would somewhat support,false
+2025-119_q61,3,Neutral,false
+2025-119_q61,4,Would somewhat oppose,false
+2025-119_q61,5,Would strongly oppose,false
+2025-119_q61,6,Prefer not to answer,false
+2025-119_q62,1,Yes,false
+2025-119_q62,2,No,false
+2025-119_q62,3,Maybe,false
+2025-119_q63,1,Yes,false
+2025-119_q63,2,No,false
+2025-119_q63,3,I don't know,false
+2025-119_q65,1,Significantly higher,false
+2025-119_q65,2,Somewhat higher,false
+2025-119_q65,3,About the same,false
+2025-119_q65,4,Somewhat lower,false
+2025-119_q65,5,Significantly lower,false
+2025-119_q65,6,Not sure,false
+2025-119_q66,1,Strongly support,false
+2025-119_q66,2,Support,false
+2025-119_q66,3,Neutral,false
+2025-119_q66,4,Oppose,false
+2025-119_q66,5,Strongly oppose,false
+2025-119_q67,1,Strongly support,false
+2025-119_q67,2,Support,false
+2025-119_q67,3,Neutral,false
+2025-119_q67,4,Oppose,false
+2025-119_q67,5,Strongly oppose,false
+2025-119_q69,1,A great deal,false
+2025-119_q69,2,Some,false
+2025-119_q69,3,Not much,false
+2025-119_q69,4,Not at all,false
+2025-119_q69,5,Don’t know / not sure,false
+2025-119_q7,1,Very optimistic,false
+2025-119_q7,2,Somewhat optimistic,false
+2025-119_q7,3,Neither optimistic nor pessimistic,false
+2025-119_q7,4,Somewhat pressimistic,false
+2025-119_q7,5,Very pessimistic,false
+2025-119_q70,1,Low-income countries,false
+2025-119_q70,2,Countries whose basic cultural and political values are aligned with those of the donor country,false
+2025-119_q70,3,Countries with good governance,false
+2025-119_q70,4,Countries at war,false
+2025-119_q70,5,None of the above,false
+2025-119_q71,1,Intervene to stop it using all necessary means,false
+2025-119_q71,2,Intervene to stop it using all non-military means,false
+2025-119_q71,3,Intervene in some limited way,false
+2025-119_q71,4,Condemn it but not intervene,false
+2025-119_q71,5,Nothing,false
+2025-119_q72,1,Strongly Agree with Statement 1,false
+2025-119_q72,2,Agree with Statement 1,false
+2025-119_q72,3,Agree with Statement 2,false
+2025-119_q72,4,Strongly Agree with Statement 2,false
+2025-119_q72,5,Agree with Neither,false
+2025-119_q73,1,Strongly agree,false
+2025-119_q73,2,Agree,false
+2025-119_q73,3,Slightly agree,false
+2025-119_q73,4,Neither agree nor disagree,false
+2025-119_q73,5,Slightly disagree,false
+2025-119_q73,6,Disagree,false
+2025-119_q73,7,Strongly disagree,false
+2025-119_q74,1,Not at all concerned,false
+2025-119_q74,2,Slightly concerned,false
+2025-119_q74,3,Moderately concerned,false
+2025-119_q74,4,Concerned,false
+2025-119_q74,5,Extremely concerned,false
+2025-119_q75,1,Currently own my home,false
+2025-119_q75,2,Currently rent my home but have owned my home in the past,false
+2025-119_q75,3,Currently rent my home and have never owned my home in the past,false
+2025-119_q75,4,"I have another living arrangement (e.g. living with family, in student housing, etc.), but have owned my home in the pas",false
+2025-119_q75,5,I have another living arrangement and have never owned a home,false
+2025-119_q76,1,Strongly oppose,false
+2025-119_q76,2,Somewhat oppose,false
+2025-119_q76,3,Neither oppose nor support,false
+2025-119_q76,4,Somewhat support,false
+2025-119_q76,5,Strongly support,false
+2025-119_q77,1,Strongly oppose,false
+2025-119_q77,2,Somewhat oppose,false
+2025-119_q77,3,Neither oppose nor support,false
+2025-119_q77,4,Somewhat support,false
+2025-119_q77,5,Strongly support,false
+2025-119_q78,1,Strongly oppose,false
+2025-119_q78,2,Somewhat oppose,false
+2025-119_q78,3,Neither oppose nor support,false
+2025-119_q78,4,Somewhat support,false
+2025-119_q78,5,Strongly support,false
+2025-119_q8,1,Strongly disapprove,false
+2025-119_q8,2,Somewhat disapprove,false
+2025-119_q8,3,Neither approve nor disapprove,false
+2025-119_q8,4,Somewhat approve,false
+2025-119_q8,5,Strongly approve,false
+2025-119_q9,1,Strongly disapprove,false
+2025-119_q9,2,Somewhat disapprove,false
+2025-119_q9,3,Neither approve nor disapprove,false
+2025-119_q9,4,Somewhat approve,false
+2025-119_q9,5,Strongly approve,false
