@@ -15,8 +15,8 @@ question_id,option_id,option_label,is_missing
 2025-119_q11,3,Neither agree nor disagree,false
 2025-119_q11,4,Somewhat disagree,false
 2025-119_q11,5,Strongly disagree,false
-2025-119_q12,1,"A system that guarantees access to a basic income and services for all citizens, even if they cannot express their polit",false
-2025-119_q12,2,"A system in which everybody can express their political opinions without fear or censorship, even if some people do not",false
+2025-119_q12,1,"A system that guarantees access to a basic income and services for all citizens, even if they cannot express their political opinions without fear or censorship.",false
+2025-119_q12,2,"A system in which everybody can express their political opinions without fear or censorship, even if some people do not have access to a basic income and services.",false
 2025-119_q13,1,Strongly disagree,false
 2025-119_q13,2,Disagree,false
 2025-119_q13,3,Neither agree nor disagree,false
