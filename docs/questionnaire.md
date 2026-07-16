@@ -32,6 +32,7 @@ Under what circumstances is political violence justified?
 
 ## 2025-119_q16
 
+The American founders anticipated that states occasionally would need to push back against federal government policies.
 In a clash between your state and the federal government, would you be more likely to support:
 
 ## 2025-119_q17
@@ -60,10 +61,12 @@ Does cultural ideology (such as attitudes towards LGBTQ) or economic interest ma
 
 ## 2025-119_q22a
 
+Imagine a hypothetical member of Congress that represents a district in your home state. This member is in your preferred party, and shares your views on an issue you care about very much. Suppose that this member recently decided to NOT introduce a bill / legislation on this issue into Congress because they were confident it would not get enough support from other members of Congress to become law.
 If this hypothetical member of Congress were to run for re-election in the next election, how would you vote?
 
 ## 2025-119_q22b
 
+Imagine a hypothetical member of Congress that represents a district in your home state. This member is in your preferred party, and shares your views on an issue you care about very much. Suppose that this member recently introduced a bill / legislation on this issue into Congress, despite being confident that it will not become law because it does not have enough support from other members of Congress.
 If this hypothetical member of Congress were to run for re-election in the next election, how would you vote?
 
 ## 2025-119_q23
@@ -140,6 +143,7 @@ Do you - or does anyone in your immediate family - currently have outstanding st
 
 ## 2025-119_q4
 
+Some states have closed primaries, where only registered party members can vote, while others have open primaries, where any voter can choose a party’s primary.
 In which primary elections are you eligible to vote?
 
 ## 2025-119_q40
@@ -176,10 +180,12 @@ What is an estimation of your wealth? (include value of real estate properties, 
 
 ## 2025-119_q48
 
+Some people say masculinity, or manhood, is under threat in the United States today.
 How much do you agree or disagree with this statement?
 
 ## 2025-119_q49
 
+Off the top of your head, without looking at the answers below, think about what various types of people you think today’s U.S. society categorizes into groups.
 Is the first group you think about one of the following types?
 
 ## 2025-119_q5
@@ -252,10 +258,12 @@ Are home prices in your community ________ than the national average?
 
 ## 2025-119_q66
 
+Governments often provide financial support to help consumers pay their fuel bills for things like gasoline and home heating.
 Which of the following responses best describes your support or opposition to governments providing financial assistance for consumers’ fuel bills?
 
 ## 2025-119_q67
 
+Governments often provide financial support to producers of fossil fuels for things like exploration, new investments, and pipelines.
 Which of the following responses best describes your support or opposition to governments providing financial assistance for consumers’ fuel bills
 
 ## 2025-119_q69
@@ -276,6 +284,7 @@ What do you believe the United State has an obligation to do in response to an o
 
 ## 2025-119_q72
 
+Which of the following statements is closest to your view? (Choose Statement 1 or Statement 2) Statement 1: Because of my views about the cultural values and traditions in the U.S., I am more likely to support tougher U.S actions abroad, such as sanctions or military pressure.
 Statement 2: Because of my views about the cultural values and traditions in the U.S., I am more likely to support cooperative U.S actions abroad, such as aid, partnership, or diplomacy.
 
 ## 2025-119_q73
@@ -284,6 +293,7 @@ To what extent do you agree or disagree with the following statement?: "The gove
 
 ## 2025-119_q74
 
+Economic uncertainty, rising interest rates, and changing market conditions have contributed to declining home values in communities across the country. Some neighborhoods have already seen significant drops in home values, with reports indicating that more areas may be affected. Experts say that home values may drop to their lowest levels in decades.
 How concerned are you about home values dropping in your area?
 
 ## 2025-119_q75
@@ -296,10 +306,12 @@ Do you oppose or support Israel's continuing military action in Gaza?
 
 ## 2025-119_q77
 
+A growing number of Israeli citizens have expressed opposition to the war in Gaza.
 Do you oppose or support Israel's continuing military action in Gaza?
 
 ## 2025-119_q78
 
+A growing number of Jewish American groups have expressed opposition to the war in Gaza.
 Do you oppose or support Israel's continuing military action in Gaza?
 
 ## 2025-119_q8
@@ -308,4 +320,5 @@ Do you approve or disapprove of voting in the opposite party's primary (e.g., a 
 
 ## 2025-119_q9
 
+Do you approve or disapprove of voting in the opposite party's primary (e.g.
 a Democrat voting in the Republican primary) to ensure that the opposing party nominates an extremist candidate who is less likely to win the general election?
